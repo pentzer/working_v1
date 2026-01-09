@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Data (never commit)
+data/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
